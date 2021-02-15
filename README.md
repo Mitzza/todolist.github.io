@@ -1,4 +1,4 @@
-# goals
+# todolist
 
 ## Project setup
 ```
